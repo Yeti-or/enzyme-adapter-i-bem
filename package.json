@@ -1,0 +1,23 @@
+{
+  "name": "enzyme-adapter-i-bem",
+  "version": "0.0.0",
+  "description": "i-bem enzyme adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeti-or/enzyme-adapter-i-bem.git"
+  },
+  "keywords": [
+    "i-bem",
+    "enzyme"
+  ],
+  "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeti-or/enzyme-adapter-i-bem/issues"
+  },
+  "homepage": "https://github.com/Yeti-or/enzyme-adapter-i-bem#readme"
+}
